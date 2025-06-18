@@ -1,5 +1,5 @@
 """
-Q13: What is the difference between 'is' and '==' for strings?
+Q12: What is the difference between 'is' and '==' for strings?
 
 - '==' checks value equality
 - 'is' checks object identity
