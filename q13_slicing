@@ -1,5 +1,5 @@
 """
-Q14: How does slicing work in tuple and string?
+Q13: How does slicing work in tuple and string?
 
 - Syntax: object[start:end:step]
 """
